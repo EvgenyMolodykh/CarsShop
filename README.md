@@ -17,7 +17,7 @@ JavaScript : Добавление интерактивности.<br>
 GitHub Pages : Хостинг сайта для публичного доступа.<br>
 
 <hr>
-<h4>Как запустить проект локально</h4>:<br>
+<h4>Как запустить проект локально:</h4><br>
 1) Клонируйте репозиторий: git clone https://github.com/evgenymolodykh/carsShop.git<br>
 2) Откройте файл index.html в браузере: open index.html
 <hr>
