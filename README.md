@@ -17,17 +17,6 @@ JavaScript : Добавление интерактивности.<br>
 GitHub Pages : Хостинг сайта для публичного доступа.<br>
 
 <hr>
-Структура проекта
-/carsShop
-  /index.html          # Главная страница сайта
-  /style/              # Папка с CSS-файлами
-    style.css          # Основные стили сайта
-  /scripts/            # Папка с JavaScript-файлами
-    script.js          # Логика работы интерактивных элементов
-  /images/             # Папка с изображениями автомобилей
-    image.jpg          # Пример изображения
-  README.md            # Описание проекта
-<hr>
 Как запустить проект локально:<br>
 1) Клонируйте репозиторий: git clone https://github.com/evgenymolodykh/carsShop.git<br>
 2) Откройте файл index.html в браузере: open index.html
